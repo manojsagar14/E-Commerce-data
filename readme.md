@@ -23,6 +23,10 @@ The objective was to create a simple e-commerce database using **MySQL Command L
 
 ---
 
+## DRAIGRAM: `ER-DIAGRAM`
+
+![WhatsApp Image 2025-06-23 at 21 30 55_9735bb22](https://github.com/user-attachments/assets/239ff5eb-771f-4ed1-a637-bc740030acc6)
+
 
 ```sql
 CREATE DATABASE ecommerce_db;
