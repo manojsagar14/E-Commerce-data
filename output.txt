@@ -1,0 +1,7 @@
+mysql> select * from customers;
++-------------+--------------+--------------------+
+| customer_id | name         | email              |
++-------------+--------------+--------------------+
+|           1 | Manojkumar   | manoj@example.com |
+|           2 | Asha Rao     | asha@example.com   |
++-------------+--------------+--------------------+
